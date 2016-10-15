@@ -3,7 +3,7 @@ var THREE = require('./lib/three.min.js')
 var dat = require('./lib/dat.gui.min.js')
 
 module.exports = {
-  Stats,
-  THREE,
-  dat
+  Stats: Stats,
+  THREE: THREE,
+  dat: dat
 }
