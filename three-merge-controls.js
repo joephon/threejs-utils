@@ -1,4 +1,2 @@
-require('./lib/three.min.js')
-require('./lib/TrackBallControls.js')
-
+var  THREE = require('./lib/TrackBallControls.js')
 exports = THREE
